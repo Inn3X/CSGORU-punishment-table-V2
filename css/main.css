@@ -30,8 +30,8 @@
 }
 
 }
-.red-color {
-color: var(--red-color);
+.red-color{
+    color: var(--red-color);
 }
 
 .orange-color{
