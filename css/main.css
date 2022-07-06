@@ -29,7 +29,8 @@
     background: #262629; /* Цвет фона */
 }
 
-}color {
+}
+.red-color {
 color: var(--red-color);
 }
 
