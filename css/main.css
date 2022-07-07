@@ -29,13 +29,14 @@
     background: #262629; /* Цвет фона */
 }
 
+.red-color {
+color: var(--red-color);
+}
+
 .orange-color{
     color: var(--orange-color);
 }
 
-.red-color{
-    color: var(--red-color);
-}
 .blue-color {
     color: var(--blue-color);
 }
